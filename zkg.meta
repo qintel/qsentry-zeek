@@ -1,0 +1,6 @@
+[package]
+description = Adds Qintel QSentry metadata to intel logs.
+tags = log, logging, intel, qintel, qsentry, intelligenece, threat intelligence, ti
+script_dir = qsentry
+aliases = qsentry-zeek qsentry qintel
+credits = Qintel Integrations <integrations-support@qintel.com>

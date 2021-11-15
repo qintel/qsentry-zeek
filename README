@@ -1,0 +1,6 @@
+# Qintel QSentry
+
+This package adds enhanced logging for Qintel QSentry intelligence feeds when
+integrated with Zeek's Intel Framework. This maps the Qintel QSentry custom
+fields into a QSentry nested object in the intel.log file.
+
